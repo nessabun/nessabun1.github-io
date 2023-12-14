@@ -1,0 +1,66 @@
+.nav_bar {
+    border-bottom: 1px solid #301934;
+    font-family: "Lucida Console", "Courier New", monospace;;
+    color: #301934
+}
+
+.nav_bar a {
+    font-size: 24px;
+    text-decoration: none;
+    font-family: "Lucida Console", "Courier New", monospace;;
+    color: #5a3f8a
+}
+
+#title_name {
+    font-size: 3.5rem;
+    font-family: "Lucida Console", "Courier New", monospace;
+    color: #301934
+}
+
+.homepage_project_image {
+    max-width: 400px;
+    max-height: 400px;
+    padding: 8px;
+    background-color: #301934;
+    
+}
+.project_card_name  {
+    text-align: center;
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-style: bold
+    color: #301934
+}
+
+.project_card_about {
+    text-align: center;
+    font-family: "Lucida Console", "Courier New", monospace;
+    color: #5a3f8a
+}
+
+.project_page_description {
+    margin-top: 1%;
+    font-family: "Lucida Console", "Courier New", monospace;
+    color: #301934
+
+}
+
+body {
+    background-color: rgb(209, 183, 231);
+  }
+
+  h3 {
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-style: bold
+  }
+
+  a {
+    font-family: "Lucida Console", "Courier New", monospace;
+  }
+
+  p.project_tools {
+    font-family: "Lucida Console", "Courier New", monospace;
+  }
+
+  p {
+    font-family: "Lucida Console", "Courier New", monospace;
+  }
